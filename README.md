@@ -1,30 +1,83 @@
 # Markdonw
 
- - *Itálico*  ----> asteristico PALAVRA asteristico
- - _Itálico_  -----> underline PALAVRA underline
+ - *Itálico*  ----> `*PALAVRA*`
+ - _Itálico__  -----> `_Palavra_`
 
    
- - **Negrito** ---> asteristico asteristico PALAVRA asteristico asteristico
- - __negrito__ --> anderline anderline PALAVRA underline underline
+ - **Negrito** ---> `**PALAVRA**`
+ - NEGRITO --> `__PALAVRA__`
 
 
-- ~~Riscar~~ --> simbolo tio simbolo tio PALAVRA simbol otio simbolo tio
+- ~~Riscar~~ --> `~~PALaVRA~~`
 
 # Titulo nivel 1
-um rashtag -> rashtag palavra (colocar espaço entre rashtag e a palavra)
+um rashtag -> `# TITULO nivel 1`
 
 ## Titulo nivel 2
-dois rashtag -> rashtag rashtag palabvra (colocar espaço entre rashtag e a palavra)
-
-### Titulo nivel 3
-tres rashtag -> rashtag rashtag rashtag palavra (colocar espaço entre rashtag e a palavra)
+dois rashtag -> `## TITULO nivel 2`
 
 
 Linha abixo do texto/titulo -> colcoar 3 seinal de menos ou 3 asteristico 
 
+`---`
+`***`
 ---
 ***
 
 Misturar markdow:
-Negrito + italico => underline underline asteristico PALAVRA asteristico underline underline
+Negrito + italico => `__*PALAVRA*__`
 Exemplo: __*PALAVRA*__
+
+Lista de tarefas: 
+- [ ] `[ ]` 
+- [ ] Exemplo
+- [ ] Exemplo 2
+
+
+Lista de tarefas terminada: 
+- [x] Exemplo --> `[x]` 
+
+
+
+Tabela:
+
+Num | Nome | Nota
+---|---|---
+1 | Gabriel | 10
+2 | Cleiton | 9
+
+
+
+Comando de codigo colocar entre uma  crase
+`console.log()`
+
+Comand ode código colcoar 3 crase pular linnha, colocar conteudo linah de baixo 3 crase
+```
+if(idade >= 18){
+ console.log('Pode dirigir)
+} else{
+console.log('Não pdoe dirigir')
+}
+```
+
+
+Colcoar emoj
+Emoji 😠 -> doisponto nome do emoji (um do lado do outro sem espçao)
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
