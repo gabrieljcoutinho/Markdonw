@@ -1,4 +1,4 @@
 # Markdonw
 
- - *Itálico*  ----> asteristico palavra asteristico (colcoar simbolo)
+ - *Itálico*  ----> asteristico palavra asteristico (colocar simbolo * sdf*)
  - **Negrito**
