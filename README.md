@@ -1,4 +1,4 @@
 # Markdonw
 
-*Itálico*
-**Negrito**
+ - *Itálico*
+ - **Negrito**
