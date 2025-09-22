@@ -26,5 +26,5 @@ Linha abixo do texto/titulo -> colcoar 3 seinal de menos ou 3 asteristico
 ***
 
 Misturar markdow:
-Negrito + italico => underline asteristico PALAVRA asteristico underline
-Exemplo: -*PALAVRA*_
+Negrito + italico => underline underline asteristico PALAVRA asteristico underline underline
+Exemplo: __*PALAVRA*__
